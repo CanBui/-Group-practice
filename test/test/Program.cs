@@ -11,7 +11,6 @@ namespace test
         static void Main(string[] args)
         {
             Console.Write("Hello");
-            Console.Read();
             Console.Write("Hayei");
             Console.Read();
         }
