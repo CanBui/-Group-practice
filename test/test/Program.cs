@@ -12,6 +12,8 @@ namespace test
         {
             Console.Write("Hello");
             Console.Read();
+            Console.Write("Hayei");
+            Console.Read();
         }
     }
 }
